@@ -1,18 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.11/lib/p5.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.11/lib/addons/p5.sound.min.js"></script>
-    
-    
-    
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8" />
+# My p5.js Portfolio
 
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-</html>
+This repository contains my portfolio website built with p5.js.  
+Open it here: [Live Site](https://your-username.github.io/your-repo-name/)
+
+## Files
+
+- `index.html` → main webpage
+- `sketch.js` → p5.js animation
+- `style.css` → optional styling
