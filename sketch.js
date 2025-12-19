@@ -1,10 +1,9 @@
 function setup() {
-  let canvas = createCanvas(1000, 900);
-  canvas.parent("p5-container"); // Canvas in Container einfügen
+  createCanvas(600, 400);
 }
 
 function draw() {
-
+  background(200, 230, 255);
 
   // ----- Kopf (fest) -----
   let headX = width / 2;
